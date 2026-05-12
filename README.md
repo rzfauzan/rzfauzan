@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" />
+  <img src="./assets/banne.png" />
 </p>
 
 # Hi, I'm Rizki Fauzan 👋
