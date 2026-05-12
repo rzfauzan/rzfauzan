@@ -1,28 +1,29 @@
 # Hi, I'm Rizki Fauzan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Networking+Enthusiast;Cloud+Computing+Learner;Cyber+Security+Explorer;DevOps+%2F+DevSecOps+Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Networking+Enthusiast;Cloud+Computing+Learner;Cyber+Security+Explorer;DevOps+Focus" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Passionate about **Networking, Cloud Computing, Cyber Security, and DevOps/DevSecOps**  
-🌌 Love building infrastructure, automating workflows, and exploring security challenges  
-⚡ Currently learning modern cloud-native technologies and security practices  
-🛠️ Interested in Linux servers, containers, CI/CD, automation, and infrastructure security
+💻 Passionate about **Networking, Cloud Infrastructure, and Low-Level Security**.
+🌌 I bridge the gap between **Development and Operations** with a strong focus on **Security (DevSecOps)**.
+⚙️ Currently deep-diving into **Linux Administration, Docker Orchestration, and Reverse Proxies**.
+🛠️ Active CTF player focusing on **Binary Exploitation (Pwn), Forensics, and Cryptography**.
 
 ---
 
 ## 🧠 Current Focus
 
-- 🌐 Networking & Infrastructure
-- ☁️ Cloud Computing
-- 🔐 Cyber Security
-- ⚙️ DevOps & DevSecOps
-- 🐧 Linux Administration
-- 🐳 Containerization & Automation
+- 🐧 Linux System Administration
+- 🐳 Docker & Docker Compose
+- 🌐 Reverse Proxy (Nginx / Traefik)
+- ☁️ Cloud Infrastructure
+- ⚙️ CI/CD Concepts
+- 🔐 DevSecOps Fundamentals
+- 🛡️ Infrastructure Security & Hardening
 
 ---
 
@@ -31,29 +32,26 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 ![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=for-the-badge&logo=nginx)
 
 ### 🔐 Security
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/-Metasploit-0D1117?style=for-the-badge&logo=metasploit)
+![Ghidra](https://img.shields.io/badge/-Ghidra-0D1117?style=for-the-badge&logo=gnu)
+![GDB](https://img.shields.io/badge/-GDB-0D1117?style=for-the-badge&logo=gnu)
+![pwndbg](https://img.shields.io/badge/-pwndbg-0D1117?style=for-the-badge&logo=python)
+![pwntools](https://img.shields.io/badge/-Pwntools-0D1117?style=for-the-badge&logo=python)
 
 ---
 
 ## 📌 Current Projects
 
-- 🚩 CTF & Security Labs
-- ☁️ Self-hosted Cloud Infrastructure
-- ⚙️ CI/CD Automation
-- 🔐 DevSecOps Learning Environment
-- 🌐 Personal Networking Lab
+- 🚩 CTF Solver & Exploit Scripts
+- 🎮 Static Meme-Themed CTF Platform
+- 🌐 Personal Portfolio Web
 
 ---
 
