@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" />
+</p>
+
 # Hi, I'm Rizki Fauzan 👋
 
 <p align="center">
