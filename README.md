@@ -17,13 +17,12 @@
 
 ## 🧠 Current Focus
 
-- 🐧 Linux System Administration
-- 🐳 Docker & Docker Compose
-- 🌐 Reverse Proxy (Nginx / Traefik)
-- ☁️ Cloud Infrastructure
-- ⚙️ CI/CD Concepts
-- 🔐 DevSecOps Fundamentals
-- 🛡️ Infrastructure Security & Hardening
+- 🐧 **Linux System Administration:** Focus on Debian-based servers and system hardening.
+- 🐳 **Containerization:** Mastering Docker & Docker Compose for portable environments.
+- 🌐 **Network & Infrastructure:** Advanced Reverse Proxy (Nginx/Traefik) and Virtual Networking.
+- 🔐 **DevSecOps & Hardening:** Integrating security into CI/CD pipelines and securing infrastructures.
+- 📜 **Automation:** Scripting solvers and system tasks using Python and Bash.
+- 🛡️ **Defensive Security:** Exploring Infrastructure Security to counter common exploitation techniques.
 
 ---
 
