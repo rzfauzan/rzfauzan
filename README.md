@@ -9,6 +9,9 @@
 </p>
 
 ---
+## 🌐 Portfolio
+👉 https://rizki-fauzan.pages.dev/
+---
 
 ## 🚀 About Me
 
