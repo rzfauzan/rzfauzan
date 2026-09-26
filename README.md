@@ -9,42 +9,42 @@
 </p>
 
 ---
-## 🌐 Portfolio
-👉 https://rizki-fauzan.pages.dev/
+## Portfolio
+   rizkifauzan.my.id
 ---
 
-## 🚀 About Me
+## About Me
 
-💻 Passionate about **Networking, Cloud Infrastructure, and Low-Level Security**.
-🌌 I bridge the gap between **Development and Operations** with a strong focus on **Security (DevSecOps)**.
-⚙️ Currently deep-diving into **Linux Administration, Docker Orchestration, and Reverse Proxies**.
-🛠️ Active CTF player focusing on **Binary Exploitation (Pwn), Forensics, and Cryptography**.
-
----
-
-## 🧠 Current Focus
-
-- 🐧 **Linux System Administration:** Focus on Debian-based servers and system hardening.
-- 🐳 **Containerization:** Mastering Docker & Docker Compose for portable environments.
-- 🌐 **Network & Infrastructure:** Advanced Reverse Proxy (Nginx/Traefik) and Virtual Networking.
-- 🔐 **DevSecOps & Hardening:** Integrating security into CI/CD pipelines and securing infrastructures.
-- 📜 **Automation:** Scripting solvers and system tasks using Python and Bash.
-- 🛡️ **Defensive Security:** Exploring Infrastructure Security to counter common exploitation techniques.
+0assionate about **Networking, Cloud Infrastructure, and Low-Level Security**.
+I bridge the gap between **Development and Operations** with a strong focus on **Security (DevSecOps)**.
+Currently deep-diving into **Linux Administration, Docker Orchestration, and Reverse Proxies**.
+Active CTF player focusing on **Binary Exploitation (Pwn), Forensics, and Cryptography**.
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
 
-### 💻 Languages
+- **Linux System Administration:** Focus on Debian-based servers and system hardening.
+- **Containerization:** Mastering Docker & Docker Compose for portable environments.
+- **Network & Infrastructure:** Advanced Reverse Proxy (Nginx/Traefik) and Virtual Networking.
+- **DevSecOps & Hardening:** Integrating security into CI/CD pipelines and securing infrastructures.
+- **Automation:** Scripting solvers and system tasks using Python and Bash.
+- **Defensive Security:** Exploring Infrastructure Security to counter common exploitation techniques.
+
+---
+
+## Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnu-bash)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
 ![Nginx](https://img.shields.io/badge/-Nginx-0D1117?style=for-the-badge&logo=nginx)
 
-### 🔐 Security
+### Security
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-0D1117?style=for-the-badge&logo=gnu)
 ![GDB](https://img.shields.io/badge/-GDB-0D1117?style=for-the-badge&logo=gnu)
@@ -53,15 +53,16 @@
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
-- 🚩 CTF Solver & Exploit Scripts
-- 🎮 Static Meme-Themed CTF Platform
-- 🌐 Personal Portfolio Web
+- CTF Solver & Exploit Scripts
+- Static Meme-Themed CTF Platform
+- Personal Portfolio Web
+- Motolog
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/rzfauzan">
@@ -79,7 +80,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://github.com/rzfauzan/rzfauzan/blob/output/github-contribution-grid-snake-dark.svg" />
